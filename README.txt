@@ -1,0 +1,1 @@
+This classifier utilizes medical data from cells to determine whether the patient has cancer or not
